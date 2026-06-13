@@ -37,7 +37,7 @@ This repository is designed as a living knowledge foundation that captures Dr. F
   <a href="https://substack.com/@drferdiiskandar" title="Substack"><img src="https://cdn.simpleicons.org/substack/FF6719" height="24" /></a>&nbsp;&nbsp;
   <a href="https://www.kaggle.com/drferdiiskandar" title="Kaggle"><img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="24" /></a>&nbsp;&nbsp;
   <a href="https://www.reddit.com/user/SixCupaCoffee/" title="Reddit"><img src="https://cdn.simpleicons.org/reddit/FF4500" height="24" /></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/dr-ferdi-iskandar-1b620a3b5" title="LinkedIn"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="24" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/dr-ferdi-iskandar-1b620a3b5" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="24" /></a>&nbsp;&nbsp;
   <a href="https://huggingface.co/dr-Ferdi" title="Hugging Face"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="24" /></a>
 </p>
   </td>
