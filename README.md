@@ -30,15 +30,15 @@ This repository is designed as a living knowledge foundation that captures Dr. F
 </p>
 
 <p>
-  <a href="https://ferdiiskandar.com" title="Personal Website"><img src="https://cdn.simpleicons.org/linktree/43E55E" height="22" /></a>&nbsp;
-  <a href="https://medium.com/@codieverse" title="Medium"><img src="https://cdn.simpleicons.org/medium/000000" height="22" /></a>&nbsp;
-  <a href="https://orcid.org/0009-0003-3788-1307" title="ORCID iD"><img src="https://cdn.simpleicons.org/orcid/A6CE39" height="22" /></a>&nbsp;
-  <a href="https://x.com/ClaudesyI81047" title="X / Twitter"><img src="https://cdn.simpleicons.org/x/000000" height="22" /></a>&nbsp;
-  <a href="https://substack.com/@drferdiiskandar" title="Substack"><img src="https://cdn.simpleicons.org/substack/FF6719" height="22" /></a>&nbsp;
-  <a href="https://www.kaggle.com/drferdiiskandar" title="Kaggle"><img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="22" /></a>&nbsp;
-  <a href="https://www.reddit.com/user/SixCupaCoffee/" title="Reddit"><img src="https://cdn.simpleicons.org/reddit/FF4500" height="22" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/dr-ferdi-iskandar-1b620a3b5" title="LinkedIn"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="22" /></a>&nbsp;
-  <a href="https://huggingface.co/dr-Ferdi" title="Hugging Face"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="22" /></a>
+  <a href="https://ferdiiskandar.com" title="Personal Website"><img src="https://cdn.simpleicons.org/linktree/43E55E" height="24" /></a>&nbsp;&nbsp;
+  <a href="https://medium.com/@codieverse" title="Medium"><img src="https://cdn.simpleicons.org/medium/AAAAAA" height="24" /></a>&nbsp;&nbsp;
+  <a href="https://orcid.org/0009-0003-3788-1307" title="ORCID iD"><img src="https://cdn.simpleicons.org/orcid/A6CE39" height="24" /></a>&nbsp;&nbsp;
+  <a href="https://x.com/ClaudesyI81047" title="X / Twitter"><img src="https://cdn.simpleicons.org/x/AAAAAA" height="24" /></a>&nbsp;&nbsp;
+  <a href="https://substack.com/@drferdiiskandar" title="Substack"><img src="https://cdn.simpleicons.org/substack/FF6719" height="24" /></a>&nbsp;&nbsp;
+  <a href="https://www.kaggle.com/drferdiiskandar" title="Kaggle"><img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="24" /></a>&nbsp;&nbsp;
+  <a href="https://www.reddit.com/user/SixCupaCoffee/" title="Reddit"><img src="https://cdn.simpleicons.org/reddit/FF4500" height="24" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/dr-ferdi-iskandar-1b620a3b5" title="LinkedIn"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="24" /></a>&nbsp;&nbsp;
+  <a href="https://huggingface.co/dr-Ferdi" title="Hugging Face"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="24" /></a>
 </p>
   </td>
 </tr>
