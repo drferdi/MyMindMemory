@@ -64,6 +64,9 @@ publications/
 ## Publications
 
 - [Adaptive Engram Migration as a Trigger for Transient Auditory Hallucinations in the Aging Brain](./publications/2026-adaptive-engram-migration.md) — DOI: [10.5281/zenodo.20589509](https://doi.org/10.5281/zenodo.20589509)
+- [A Mechanistic Framework for the Clinical Trajectory System in the Context of Indonesian Healthcare Delivery](./publications/2026-clinical-trajectory-system-indonesia.md) — DOI: [10.5281/zenodo.20604965](https://doi.org/10.5281/zenodo.20604965)
+- [The Adaptive Engram Migration Hypothesis: Possession Trance as a Culturally Scripted Dissociative Cascade in Neuro-Cultural Stress Responses](./publications/2026-possession-trance-dissociative-cascade.md) — DOI: [10.5281/zenodo.20646120](https://doi.org/10.5281/zenodo.20646120)
+- [Ferdi Iskandar Mind & Memory — Initial Archive](./publications/2026-mind-memory-initial-archive.md) — DOI: [10.5281/zenodo.20677057](https://doi.org/10.5281/zenodo.20677057)
 
 ---
 *by Ferdi Iskandar*
